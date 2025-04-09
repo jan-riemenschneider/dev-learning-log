@@ -9,5 +9,5 @@ Hier dokumentiere ich meinen Fortschritt als Web Developer – Woche für Woche,
 - Transparenz für Recruiter & Tech-Interessierte
 
 📁 Struktur:
-- Nach Monaten geordnet
+- Nach Wochen geordnet
 - Markdown-Dateien mit Aufgaben, Learnings und Lösungen# dev-learning-log
